@@ -1,4 +1,4 @@
-# CaramelMacchiato ☕
+# LatteMacchiato ☕ [Link](https://en.wikipedia.org/wiki/Latte_macchiato)
    
 My 8 Favorites VSCode Extensions For Web Developers
    
