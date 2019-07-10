@@ -1,6 +1,6 @@
 # LatteMacchiato [☕](https://en.wikipedia.org/wiki/Latte_macchiato)
    
-### My 8 Favorites VSCode Extensions For Web Developers
+### My 8 Favorites VSCode Extensions For Web Developing
    
 ***
 It has always been hard for us to choose the best and the best for us. *I am a man too!*     
