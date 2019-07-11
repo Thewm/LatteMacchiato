@@ -13,7 +13,7 @@ It was then decided that in the **exhaustive** and **complete** repository, I wa
    
    
 ### Enough talking, lets see extensions :     
-* **Emmet Abbreviation** - *Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow* => [link](https://emmet.io)         
+* **Emmet Abbreviation** - *Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow* **Already installed in VS Code**=> [link](https://emmet.io)         
     
 * **Material Theme** - *The most epic theme now for Visual Studio Code* => [link](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)    
     
