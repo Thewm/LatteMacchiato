@@ -1,12 +1,11 @@
 # Macchiato [☕](https://en.wikipedia.org/wiki/macchiato)
    
-### My 8 Favorite VSCode Extensions For Web Developing
+### My 10 Favorite VSCode Extensions For Web Developing
    
 ***
 It has always been hard for us to choose the best for us. *I am a man too!*     
-In the first days of developing, the choice of **helpful** and **advantageous** tools for me was a ~~nightmare~~ and took a lot of time and energy from me. Why should your time and energy be taken too ??!!!     
-***Im here to help you 😁***       
-It was then decided that in the **exhaustive** and **complete** repository, I was able to introduce **8** useful tools for the developers in *VS Code Editor* .
+In the first days of developing, the choice of **helpful** and **advantageous** tools for me was a ~~nightmare~~ and took a lot of time and energy from me. Why should your time and energy be taken too ??!!!            
+It was then decided that in the **exhaustive** and **complete** repository, I was able to introduce **10** useful tools for the developers in *VS Code Editor* .
 ***
    
 > Yes, you guessed right!! The name of this repository has nothing to do with its content, and only the author's interest in **Coffee** has given the name to Machiatto :)))
@@ -34,3 +33,4 @@ It was then decided that in the **exhaustive** and **complete** repository, I wa
 * **Prettier Now** - *VS Code plugin for prettier/prettier* => [Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)    
       
       
+> This repository will update over the time
