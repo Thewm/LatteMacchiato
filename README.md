@@ -24,8 +24,12 @@ It was then decided that in the **exhaustive** and **complete** repository, I wa
 * **Highlight color** - *Highlight web colors in your editor* => [Link](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)      
      
 * **Bracket Pair Colorizer** - *A customizable extension for colorizing matching brackets* => [Link](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)    
+
+* **Vetur** - *A Vue.js extension to colorized tag and some shortcut snippets* => [Link](https://marketplace.visualstudio.com/items?itemName=octref.vetur)  
      
-* **ES7/React Snippets** - *Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax* => [Link](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)     
+* **ES7/React Snippets** - *Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax* => [Link](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)  
+
+* **Better Comments** - The Better Comments extension will help you create more human-friendly comments in your code => [Link](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)   
      
 * **Prettier Now** - *VS Code plugin for prettier/prettier* => [Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)    
       
