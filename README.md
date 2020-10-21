@@ -1,6 +1,6 @@
 # Macchiato [☕](https://en.wikipedia.org/wiki/macchiato)
    
-### My 10 Favorite VSCode Extensions For Web Developing
+### My Favorite VSCode Extensions & Themes For Developing in VS Code
    
 ***
 It has always been hard for us to choose the best for us. *I am a man too!*     
@@ -30,7 +30,9 @@ It was then decided that in the **exhaustive** and **complete** repository, I wa
 
 * **Better Comments** - The Better Comments extension will help you create more human-friendly comments in your code => [Link](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)   
      
-* **Prettier Now** - *VS Code plugin for prettier/prettier* => [Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)    
+* **Prettier Now** - *VS Code plugin for prettier/prettier* => [Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)   
+
+* **SynthWave '84** - *Dark cool vs code theme*
       
       
 > This repository will update over the time
